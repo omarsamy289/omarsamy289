@@ -10,6 +10,10 @@
 </p>
 
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-samy-69a7241b0/)
+
+
+
 ## Embedded  Systems repository 
 [![MIT License](https://img.shields.io/badge/EMBEDDED%20SYSTEMS%20-6A5BE2)](https://github.com/omarsamy289/ES-omar-samy)
 
