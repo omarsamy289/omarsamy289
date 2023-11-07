@@ -1,9 +1,16 @@
 <h1 align="center">  omar samy</h1>
 <h3 align="center">Embedded System engineer - 2d/3d concept designer</h3>
 
+&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt Text](https://i.pinimg.com/originals/e6/95/4d/e6954dfee9a6822460c7a7ea1aab8426.gif)
+&nbsp;
+&nbsp;
+
 - 🌱 I’m currently learning **solidworks, plasticity**
 
 - 👨‍💻 All of my concept designs are available at [https://www.artstation.com/omars](https://www.artstation.com/omars)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
