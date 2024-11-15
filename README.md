@@ -8,7 +8,7 @@
 &nbsp;
 
 
-- 🌱 I’m currently learning **solidworks, plasticity**
+- 🌱 I’m currently learning MAKE AUTOMATION
 
 -  </a> <a href="https://www.artstation.com/omars" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" alt="xd" width="25" height="25"/> </a> </a> &nbsp;
  </a> </a>  All of my concept designs are available at [https://www.artstation.com/omars](https://www.artstation.com/omars)
