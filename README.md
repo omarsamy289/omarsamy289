@@ -21,8 +21,7 @@
 [![MIT License](https://img.shields.io/badge/EMBEDDED%20SYSTEMS%20-6A5BE2)](https://github.com/omarsamy289/ES-omar-samy)
 
 #### Live Repository Map
-[![View Live Map](https://img.shields.io/badge/VIEW%20LIVE%20MAP-6A5BE2?style=for-the-badge)](https://s7.gifyu.com/images/SGlM2.gif)
-> [![Live Map Preview](https://s7.gifyu.com/images/SGlM2.md.gif)]()
+[![View Live Map](https://img.shields.io/badge/VIEW%20LIVE%20MAP-6A5BE2?style=for-the-badge)](https://omarsamy289.github.io/)
 
 &nbsp;
 &nbsp;
