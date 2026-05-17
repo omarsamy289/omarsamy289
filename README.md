@@ -3,7 +3,7 @@
 
 &nbsp;
 &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt Text](https://s7.gifyu.com/images/SGlp9.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt Text](https://s13.gifyu.com/images/b7DLH.gif)
 &nbsp;
 &nbsp;
 
@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning MAKE AUTOMATION
+- 🌱 I’m currently learning DFM
 
 -  </a> <a href="https://www.artstation.com/omars" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968654.png" alt="xd" width="25" height="25"/> </a> </a> &nbsp;
  </a> </a>  All of my concept designs are available at [https://www.artstation.com/omars](https://www.artstation.com/omars)
